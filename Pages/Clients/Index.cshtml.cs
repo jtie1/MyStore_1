@@ -12,7 +12,7 @@ namespace MyStore_1.Pages.Clients
         {
             try
             {
-                String connectionString = "Data Source=.\tew_sqlexpress;Initial Catalog=mystore;Integrated Security=True";
+                String connectionString = "Data Source=.\\tew_sqlexpress;Initial Catalog=mystore;Integrated Security=True";
 
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
