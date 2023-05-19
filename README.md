@@ -1,5 +1,5 @@
 # MyStore_1
-Simple ASP.NET project with SQL database
+Simple ASP.NET project with SQL database. Tutorial [here](https://youtu.be/lLYmIXM619s)
 
 # Purpose of the Project
 - Learn basic connections between C#, ASP.NET, and SQL tables 
