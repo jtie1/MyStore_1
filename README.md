@@ -1,9 +1,8 @@
 # MyStore_1
-Simple ASP.NET project with SQL database. Tutorial [here](https://youtu.be/lLYmIXM619s)
+Project placed on hiatus following the deaths of 2 close family members in summer and late 2023.
 
 # Purpose of the Project
 - Learn basic connections between C#, ASP.NET, and SQL tables 
-- Be less afraid of the starting projects
 - Find a good starting point to relearn C# and linking it to SQL
 
 # Issues during Development
